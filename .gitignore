@@ -17,3 +17,4 @@ ENV/
 env.bak/
 venv.bak/
 .idea/
+/Term_1/Project_3/eod-quotemedia.csv
