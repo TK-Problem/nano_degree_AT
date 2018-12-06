@@ -9,7 +9,7 @@ __pycache__/
 .ipynb_checkpoints
 
 # Environments
-.env
+.envj
 .venv
 env/
 venv/
@@ -18,3 +18,4 @@ env.bak/
 venv.bak/
 .idea/
 /Term_1/Project_3/eod-quotemedia.csv
+j

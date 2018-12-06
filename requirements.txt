@@ -56,7 +56,7 @@ multiprocess==0.70.6.1
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==1.11
-notebook==5.7.0
+notebook==5.7.2
 numexpr==2.6.8
 numpy==1.15.2
 osqp==0.4.1
